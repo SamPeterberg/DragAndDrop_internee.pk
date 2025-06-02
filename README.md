@@ -1,6 +1,6 @@
 # Drag & Drop File Uploader
 
-A clean, responsive, and interactive drag-and-drop file uploader built as part of my internship task at [Internee.pk](https://internee.pk). This simple project allows users to upload files by dragging them into a designated drop zone or selecting them manually — with a focus on user experience and ease of use.
+A clean, responsive, and interactive drag-and-drop file uploader built. This simple project allows users to upload files by dragging them into a designated drop zone or selecting them manually — with a focus on user experience and ease of use.
 
 ## 🚀 Features
 
@@ -14,7 +14,7 @@ A clean, responsive, and interactive drag-and-drop file uploader built as part o
 ## 🔧 Tech Stack
 
 - **HTML5**
-- **CSS3**
+- **Tailwind CSS**
 - **JavaScript (Vanilla)**
 
 ## 📦 Usability
